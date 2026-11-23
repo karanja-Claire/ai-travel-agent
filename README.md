@@ -62,7 +62,7 @@ pip install streamlit ollama mem0ai qdrant-client
 **4. Run the app**
 
 ```bash
-streamlit run travel_agent.py
+streamlit run app.py
 ```
 
 Open the link Streamlit prints (usually http://localhost:8501), enter a username in the sidebar and start chatting.
